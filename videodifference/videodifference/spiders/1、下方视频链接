@@ -1,0 +1,1 @@
+response.xpath('//meta[@name="title"]/@content').extract()
